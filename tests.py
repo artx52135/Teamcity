@@ -1,4 +1,4 @@
-import PrimeNumber
+import main
 import unittest
 
 class TestPrimeFunctions(unittest.TestCase):
