@@ -21,7 +21,7 @@ def get_nth_prime(n):
     return number
 
 def main():
-        n = int(input("n: "))
+        n = 10
         prime = get_nth_prime(n)
         print(f"Value: {prime}")
 
